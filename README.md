@@ -1,5 +1,11 @@
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/pleabargain/How_to_make_a_text_summarizer/master)
 
+# this repo is missing source files
+get them here: https://drive.google.com/open?id=1dqHMlfPstrzTPPUSmR-8owNt6DT6g2Jq
+
+# perhaps a better read is here:
+https://towardsdatascience.com/how-to-create-data-products-that-are-magical-using-sequence-to-sequence-models-703f86a231f8
+
 # How_to_make_a_text_summarizer
 This is the code for "How to Make a Text Summarizer - Intro to Deep Learning #10" by Siraj Raval on Youtube.
 
